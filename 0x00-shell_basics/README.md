@@ -1,2 +1,1 @@
-
-shells basics hands on
+shell basic hands-on project
